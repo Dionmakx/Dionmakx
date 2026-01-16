@@ -1,25 +1,26 @@
-<h1 align="center">Dionmakx</h1>
-<h3 align="center">Software Development · Open Source · AI & Computing</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Dionmakx" />
+</p>
 
 <p align="center">
-Building software with focus on fundamentals, systems thinking  
-and long-term technical understanding.
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Profile
-I focus on understanding how software and systems really work.  
-Interested in open source, artificial intelligence, and computing at a deep level.
+## 🧠 About
+I focus on building and understanding software from the ground up.  
+My interests revolve around computing, open source, and artificial intelligence,  
+with an emphasis on fundamentals, clarity, and long-term technical growth.
 
 ---
 
-## 🧩 Core Interests
+## 🧩 Areas of Focus
 - Software Engineering
 - Artificial Intelligence
-- Computing & Systems
+- Systems & Computing
 - Open Source Development
-- Automation
+- Automation & Tooling
 
 ---
 
@@ -34,19 +35,17 @@ Interested in open source, artificial intelligence, and computing at a deep leve
 
 ---
 
-## 🛠️ Tech Orientation
+## 🛠️ Technical Orientation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,ai" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionmakx&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🔍 Current Direction
-Exploring ideas, strengthening fundamentals  
+Exploring ideas, strengthening core skills,  
 and building software related to AI and computing.
 
----
-
 <p align="center">
-<i>Focused on clarity, correctness, and continuous learning.</i>
+  <i>Focused on fundamentals, correctness, and continuous learning.</i>
 </p>
